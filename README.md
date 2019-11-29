@@ -1,4 +1,4 @@
-# Deep playground
+zd # Deep playground
 
 Deep playground is an interactive visualization of neural networks, written in
 TypeScript using d3.js. We use GitHub issues for tracking new requests and bugs.
